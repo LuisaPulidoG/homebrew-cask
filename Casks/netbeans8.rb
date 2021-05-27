@@ -1,5 +1,5 @@
-cask "netbeans" do
-  version "12.3"
+cask "netbeans8" do
+  version "8.2"
   sha256 "a34c046619b69e5b13a2618d12336b97bcb404424880fe5d0c4c10ed100da6ba"
 
   url "https://www-eu.apache.org/dist/netbeans/netbeans/#{version}/Apache-NetBeans-#{version}-bin-macosx.dmg"
